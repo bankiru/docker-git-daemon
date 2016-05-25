@@ -25,8 +25,6 @@ docker run --name git-daemon -d \
 * MAX_CONNECTIONS : numeric, default 32
 * VERBOSE         : 0 or 1, default 0
 * REUSEADDR       : 0 or 1, default 1
-* USER            : string, default root
-* GROUP           : string, default root
 
 ## References
 
